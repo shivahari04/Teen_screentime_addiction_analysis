@@ -35,7 +35,7 @@ Format : CSV
 1. Clone [this repository](https://github.com/shivahari04/Teen_screentime_addiction_analysis).
 2. Install the required Python packages:  
    pip install -r requirements.txt
-3. Open `screen_addiction.ipynb` in Jupyter Notebook 
+3. Open `teen_screen_addiction.ipynb` in Jupyter Notebook 
 
 
 ### Description
